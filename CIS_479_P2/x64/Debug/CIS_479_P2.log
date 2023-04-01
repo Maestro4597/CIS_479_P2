@@ -1,0 +1,25 @@
+﻿  CIS_479_P2.cpp
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(12,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(12,181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(13,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(13,77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(14,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(14,71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(14,103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(14,136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(15,68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(15,101): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(15,134): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(16,95): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(16,128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(16,161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(17,128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(17,161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(17,194): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(233,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(234,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Myles\Documents\GitHub\CIS_479_P2\CIS_479_P2\CIS_479_P2.cpp(489,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CIS_479_P2.vcxproj -> C:\Users\Myles\Documents\GitHub\CIS_479_P2\x64\Debug\CIS_479_P2.exe
